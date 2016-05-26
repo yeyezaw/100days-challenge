@@ -1,0 +1,32 @@
+body {
+  background: #2f558e;
+  background-size: 400px auto;
+  font-family: Open Sans;
+  color : #fff;
+}
+
+h1{
+    margin-bottom: 200px;
+}
+
+.spoiler{
+    background: #1d3c6a;
+    border-radius: 5px;
+    padding: 40px 20px;
+    width: 480px;
+    margin: 0 auto 20px; 
+    text-align: center;
+}
+
+button {
+  background: #dae1e4;
+  border: none;
+  border-radius: 5px;
+  color: #1d3c6a;
+  font-size: 24px;
+  width: 480px;
+  padding: 40px 0;
+  margin: -40px -20px;
+  outline: none;
+  cursor: pointer;
+}

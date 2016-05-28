@@ -1,4 +1,4 @@
-This 100 days challenges is inspired by http://thuongvuho.com and projects from http://referrals.trhou.se/zawyehtut.
+This 100 days challenges is inspired by [Thuong Vuho](http://thuongvuho.com) and some projects from [Treehouse](http://referrals.trhou.se/zawyehtut).
 
 Disclaimer: I fully credited to original creator and I have been using this for practical usages.
 

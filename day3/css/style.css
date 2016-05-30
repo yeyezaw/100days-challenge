@@ -54,3 +54,34 @@ a{
     color: #fff;
     top: 0;
 }
+
+/* Description */
+.description{
+    margin-top: 50px;
+    color: #fff;
+}
+
+.description ul{
+    display: inline-flex;
+    list-style: none;
+    
+}
+
+.description li{
+    margin-left: 20px;
+    background: none;
+}
+
+.description h5{
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.description p{
+    padding-left: 60px;
+}
+
+.description a{
+    text-decoration: none;
+    color: mediumseagreen;
+}

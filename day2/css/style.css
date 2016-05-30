@@ -30,3 +30,31 @@ button {
   outline: none;
   cursor: pointer;
 }
+
+.description{
+    margin-top: 50px;
+}
+
+.description ul{
+    display: inline-flex;
+    list-style: none;
+    
+}
+
+.description li{
+    margin-left: 20px;
+}
+
+.description h5{
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.description p{
+    padding-left: 60px;
+}
+
+.description a{
+    text-decoration: none;
+    color: mediumseagreen;
+}
